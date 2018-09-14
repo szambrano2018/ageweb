@@ -1,0 +1,1 @@
+<input type="hidden" id="int_email_registrado" name="int_email_registrado" value="0">
